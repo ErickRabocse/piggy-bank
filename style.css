@@ -1,0 +1,23 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: midnightblue;
+}
+h1 {
+  text-align: center;
+  background-color: rgba(240, 248, 255, 0.9);
+}
+.pay {
+  display: none;
+}
+.warning {
+  margin-top: 20px;
+  color: brown;
+  font-weight: 200;
+}
+
+p {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: bold;
+}
